@@ -24,9 +24,9 @@ JWT Token Authentication: To maintain the logged-in state of users, the applicat
 
 This Alumni Tracking System aims to strengthen the bond between the college and its alumni, providing an efficient platform for communication, networking, and updates on alumni activities and achievements.
 
-# Getting Started with Create React App
+# Getting Started with App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+[Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
