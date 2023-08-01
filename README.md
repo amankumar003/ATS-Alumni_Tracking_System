@@ -1,4 +1,4 @@
-#Alumni Tracking System
+# Alumni Tracking System
 
 The Alumni Tracking System is a web-based application designed for colleges to efficiently track their alumni. This application incorporates several essential features to facilitate seamless alumni management. The key functionalities of the system include:
 
