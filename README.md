@@ -2,7 +2,7 @@
 
 The Alumni Tracking System is a web-based application designed for colleges to efficiently track their alumni. This application incorporates several essential features to facilitate seamless alumni management. The key functionalities of the system include:
 
-Alumni Registration: The system enables alumni to register themselves, providing essential information such as name, email, and graduation details.
+**Alumni Registration:** The system enables alumni to register themselves, providing essential information such as name, email, and graduation details.
 
 Profile Picture Upload: Alumni can easily upload and change their profile pictures, which are securely stored on Cloudinary for efficient management.
 
